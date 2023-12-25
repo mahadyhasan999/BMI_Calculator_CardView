@@ -7,4 +7,6 @@
     <string name="calculate">CALCULATE</string>
     <string name="range">Range</string>
     <string name="cm">cm</string>
+    <string name="image_of_healthy_people">Image of healthy people</string>
+    <string name="health">Health</string>
 </resources>
